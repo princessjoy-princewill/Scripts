@@ -5,4 +5,4 @@ A collection of foundational Bash scripts built while learning Linux shell autom
 
 ## 📂 Included Scripts
 
-* **`timelog.sh`** — An infinite loop script that logs custom timestamps into a text file.
+* [`timelog.sh`](./timelog.sh) — An infinite loop script that logs custom timestamps into a text file.
